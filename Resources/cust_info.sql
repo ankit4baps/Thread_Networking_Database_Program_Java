@@ -1,0 +1,9 @@
+insert into `customer`.`cust_info` (`custname`,`custphone`) values ('Jackson Sean', '4372256590');
+insert into `customer`.`cust_info` (`custname`,`custphone`) values ('Watson John', '4081234567');
+insert into `customer`.`cust_info` (`custname`,`custphone`) values ('Watson John', '2156784567');
+insert into `customer`.`cust_info` (`custname`,`custphone`) values ('Watson John', '6212994353');
+insert into `customer`.`cust_info` (`custname`,`custphone`) values ('Watson John', '4368751892');
+insert into `customer`.`cust_info` (`custname`,`custphone`) values ('Walters Susan', '6152347961');
+insert into `customer`.`cust_info` (`custname`,`custphone`) values ('Wu Willam', '4238732479');
+insert into `customer`.`cust_info` (`custname`,`custphone`) values ('Alders Julia', '1588091682');
+insert into `customer`.`cust_info` (`custname`,`custphone`) values ('Alders Julia', '5691099925');
